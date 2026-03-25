@@ -158,7 +158,7 @@ const App = () => {
                   }}
                   className="image-wrapper"
                 >
-                  <img src="sonu-kumar10.png" alt="Sonu Kumar" />
+                  <img src="sonu-kumar10.jpg" alt="Sonu Kumar" />
                   <div className="premium-aura"></div>
                   <div className="image-border"></div>
                 </motion.div>
